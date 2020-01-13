@@ -1,0 +1,304 @@
+@media (max-width: 575.98px){
+    .navbar {
+        padding: 5px 15px;
+    }
+    .navbar-light .navbar-toggler {
+        color:white ;
+        border-color:none;
+    }
+    .navbar-nav {
+        background:rgba(0, 0, 0, 0.801);
+        text-align: center;
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 3px 15px;
+    }
+    #banner {
+        padding-top: 125px;
+        padding-bottom: 90px;
+    }
+    .banner-text h3 {
+        font-size: 30px;
+    }
+    #department {
+        padding: 28px 0px;
+    }
+    .depart-text {
+        margin-bottom: 35px;
+    }
+    #waxom {
+        padding-top: 30px;
+    }
+    .waxom-text h3 {
+        font-size: 28px;
+    }
+    #theme {
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .theme-left h3 {
+        padding-bottom: 20px;
+    }
+    .theme-right a {
+        padding: 16px 30px;
+        float: none;
+    }
+    #gallery {
+        padding-top: 35px;
+        padding-bottom: 60px;
+    }
+    .button button {
+        margin: 3px 5px;
+    }
+    #video {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .video-content h3 {
+        font-size: 22px;
+    }
+    .video-content p {
+        font-size: 14px;
+    }
+    .phone {
+        padding-top: 35px;
+    }
+    .phone-text-up {
+        padding-top: 35px;
+    }
+    .phone-text-up h2 {
+        font-size: 21px;
+    }
+    .phone-text-up p {
+        line-height: 20px;
+    }
+    #timer {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .timer-text {
+        margin-bottom: 60px;
+    }
+    #recent {
+        padding-top: 25px;
+        padding-bottom: 65px;
+    }
+    .recent-text1 {
+        padding-left: 0px;
+        text-align: center;
+        padding:30px 10px;
+    }
+    #logo {
+        padding: 45px 0px;
+    }
+    .logo-img{
+        padding-bottom: 40px;
+    }
+    #footer {
+        padding: 40px 0px;
+    }
+    .footer-item1{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .footer-item2{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    #copyright {
+        padding-top: 22px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .copy-item2{
+        float: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    .navbar {
+        padding: 5px 15px;
+    }
+    .navbar-light .navbar-toggler {
+        color:white ;
+        border-color:none;
+    }
+    .navbar-nav {
+        background:rgba(0, 0, 0, 0.801);
+        text-align: center;
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 3px 15px;
+    }
+    #banner {
+        padding-top: 125px;
+        padding-bottom: 90px;
+    }
+    .banner-text h3 {
+        font-size: 30px;
+    }
+    #department {
+        padding: 28px 0px;
+    }
+    .depart-text {
+        margin-bottom: 35px;
+    }
+    #waxom {
+        padding-top: 30px;
+    }
+    .waxom-text h3 {
+        font-size: 28px;
+    }
+    #theme {
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .theme-left h3 {
+        padding-bottom: 20px;
+    }
+    .theme-right a {
+        padding: 16px 30px;
+        float: none;
+    }
+    #video {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .phone {
+        padding-top: 35px;
+    }
+    .phone-text-up {
+        padding-top: 35px;
+    }
+    #timer {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .timer-text {
+        margin-bottom: 60px;
+    }
+    #recent {
+        padding-top: 25px;
+        padding-bottom: 65px;
+    }
+    .recent-text1 {
+        padding-left: 0px;
+        text-align: center;
+        padding:30px 10px;
+    }
+    #logo {
+        padding: 45px 0px;
+    }
+    .logo-img{
+        padding-bottom: 40px;
+    }
+    #footer {
+        padding: 40px 0px;
+    }
+    .footer-item1{
+        padding-bottom: 30px;
+    }
+    .footer-item2{
+        padding-bottom: 30px;
+    }
+    #copyright {
+        padding-top: 22px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .copy-item2{
+        float: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        padding: 0px 4px;
+    }
+    .navbar {
+        padding: 5px 0px;
+    }
+    #banner {
+        padding-top: 125px;
+        padding-bottom: 90px;
+    }
+    #department {
+        padding: 28px 0px;
+    }
+    .depart-text {
+        margin-bottom: 35px;
+    }
+    #waxom {
+        padding-top: 30px;
+    }
+    #theme {
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .theme-left h3 {
+        padding-bottom: 20px;
+    }
+    .theme-right a {
+        padding: 16px 30px;
+        float: none;
+    }
+    #gallery {
+        padding-top: 35px;
+        padding-bottom: 60px;
+    }
+    #video {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .phone {
+        padding-top: 35px;
+    }
+    .phone-text-up {
+        padding-top: 45px;
+    }
+    .phone img{
+        width:100%;
+    }
+    #timer {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .timer-text {
+        margin-bottom: 60px;
+    }
+    #recent {
+        padding-top: 25px;
+        padding-bottom: 65px;
+    }
+    .recent-text1 {
+        padding-left: 0px;
+        text-align: center;
+        padding:30px 10px;
+    }
+    #logo {
+        padding: 45px 0px;
+    }
+    .logo-img{
+        padding-bottom: 40px;
+    }
+    #footer {
+        padding: 40px 0px;
+    }
+    .footer-item1{
+        padding-bottom: 30px;
+    }
+    .footer-item2{
+        padding-bottom: 30px;
+    }
+    #copyright {
+        padding-top: 22px;
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .copy-item2{
+        float: none;
+    }
+}
